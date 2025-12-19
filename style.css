@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.container-fluid {}
+
+.navbar-brand,
+.nav-item {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.nav-item .nav-link {
+    color: #130f49;
+}
+
+.nav-item .nav-link.active {
+    color: #130f49;
+    font-weight: bold;
+}
+
+.img img {
+    width: 450px;
+    height: 380px;
+    object-fit: cover;
+    border-radius: 100% 60% 70% 30% / 60% 10% 70% 40%;
+    box-shadow: 0 10px 100px #F5AFAF;
+    ;
+}
+
+.text {
+    font-size: 40px;
+    font-weight: bold;
+    color: #130f49;
+}
+
+.text2 {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.text3 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.container {
+    margin-top: 120px;
+}
+
+.btn1 {
+    border-radius: 20px;
+    font-size: 30px;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    background-color: #F5AFAF;
+}
+
+.btn2 {
+    border-radius: 20px;
+    font-size: 30px;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    background-color: #F5AFAF;
+}
